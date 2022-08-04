@@ -10,4 +10,4 @@ To view/modify the files from this repository, install KiCAD from: [https://kica
 ![](assets/pcb.png)
 
 ## 3D View
-![](assets/3D_PCB.png)
+![](assets/3D_view_PCB.png)
